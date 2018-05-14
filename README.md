@@ -5,5 +5,5 @@ Implements in every page of yours Magento 2 Store the google tag params for your
 ## How to Install
 
 ```
-composer require trezo/googletagparams-m2
+composer require trezo/module-googletagparams
 ```
